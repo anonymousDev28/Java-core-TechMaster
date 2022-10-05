@@ -36,4 +36,8 @@ public class BTVNB3 {
         while (choose == 'Y');
 
     }
+    public static void main(String[] args) {
+        countCharE();
+        bangCuuChuong();
+    }
 }
